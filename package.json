@@ -1,0 +1,23 @@
+{
+  "name": "hapi-swagger-starter",
+  "version": "1.0.0",
+  "description": "Goal of this project is to create a starter project with HapiJS and Swagger using latest version of NodeJS (nodejs 12+)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peter36/hapi-swagger-starter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peter36/hapi-swagger-starter/issues"
+  },
+  "homepage": "https://github.com/peter36/hapi-swagger-starter#readme",
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0"
+  }
+}
